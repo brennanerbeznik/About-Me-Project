@@ -1,0 +1,95 @@
+body {
+    /* Typography Declarations */
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.masthead-heading, 
+.masthead-intro,
+.content-footer {
+	text-align: center;
+}
+
+.masthead {
+	padding: 0.1em;
+	background-color: tomato;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative; 
+	border-top: 0.5em solid orange;
+	font-family: "Open Sans";
+	font-weight: 700px;
+}
+
+.masthead-intro {
+	margin-bottom: -1em;
+	color: #fff; 
+	font-family: "Droid Serif", Georgia, serif;
+	font-size: 2em;
+}
+
+.masthead-heading {
+	margin-top: -0.4em;
+	color: #fff; 
+	font-size: 6em;
+	letter-spacing: -0.02em;
+}
+
+.content-footer,
+.intro-section,
+.location-section,
+.questions-section {
+	max-width: 38em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em;
+}
+
+.content-footer {
+	margin: 3em 0 0 0;
+	padding: 10px;
+	background-color: tomato;
+	max-width: 100%;
+}
+
+.social > li {
+	display: inline-block;
+	font-family: "Open Sans";
+	padding: 5px 5px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-weight: 700;
+}
+
+h1,
+h2 {
+	font-family: "Open Sans";
+	margin-top: 2em;
+}
+
+h2 {
+	font-size: 1em;
+}
+
+
+.content-footer > p {
+	color: white;
+	font-family: "Varela Round";
+	font-size: 0.7em;
+	padding: 0.1em;
+	text-align: center;
+}
+
+p {
+	font-family: "Droid Serif";
+
+}
+
+
+
+
+
+
